@@ -1,4 +1,4 @@
-# Rvisión salarial utilizando Regresión lineal 
+# Revisión salarial utilizando Regresión lineal 
 
 Contexto empresarial: Eres un científico de datos en una organización. Su empresa está pasando por una revisión interna de sus prácticas de contratación y compensación
 a los empleados. En los últimos años, su empresa ha tenido poco éxito en la conversión de candidatas mujeres de alta calidad que deseaba contratar.
