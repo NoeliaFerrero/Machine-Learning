@@ -1,6 +1,4 @@
-# <h1 align="center">**`PI02_DATA05`**
-# <h1 align="center">**`Segundo Proyecto Individual - Machine Learning `**
-# <h1 align="center">**`María Belén Sendot`**
+# <h1 align="center">**`Proyecto Individual - Machine Learning `**
 
 <p align="center">
 <img src="https://img.freepik.com/vector-premium/hospitalizacion-paciente_7737-1774.jpg?w=900"   
@@ -8,7 +6,7 @@
 </p>
 
 ​
-¡Bienvenidos a mi Segundo Proyecto de Data Science! En esta ocasion estuve poniendo en práctica mis habilidades en el campo de la predicción. El objetivo del siguiente trabajo fue probar diferentes modelos de Machine Learning para encontrar aquel que pudiera darme la mejor predicción en cuanto a la problemática planteada.
+¡Bienvenidos! En esta ocasion estuve poniendo en práctica mis habilidades en el campo de la predicción. El objetivo del siguiente trabajo fue probar diferentes modelos de Machine Learning para encontrar aquel que pudiera darme la mejor predicción en cuanto a la problemática planteada.
 ​
 
 ## 🏥 **Estancia hospitalaria** 🏥
